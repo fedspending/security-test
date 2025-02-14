@@ -1,3 +1,4 @@
 requests
 freezegun
 polars
+ruff
